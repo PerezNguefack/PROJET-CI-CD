@@ -1,0 +1,19 @@
+/* 
+    Created on : May 29, 2025, 12:26:55 PM
+    Author     : Perez
+*/
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    background-color: lightcyan;
+    border: 2px solid black;       
+    border-radius: 15px;          
+    padding: 20px;                
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
